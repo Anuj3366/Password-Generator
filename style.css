@@ -8,7 +8,8 @@
     width:700px;
     height: 800px;
     margin: auto;
-    background-color: #fcb3b3;
+    background-color: #000000;
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
