@@ -136,6 +136,7 @@ async function copyContent() {
 
 
 generate.addEventListener('click', () => {
+    password = "";
     console.log("executing generate event listener")
     if(checkCount > passwordlength){
         alert("Password length is too short");
